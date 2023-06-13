@@ -1,6 +1,8 @@
 
 # Debug Error Message Sorter
 
+[![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
+
 Este script em Python é responsável por ler um arquivo de entrada contendo erros e classificar os documentos correspondentes a cada tipo de erro. Os documentos separados por tipo de erro são salvos em um arquivo de saída.
 
 ## Requisitos
