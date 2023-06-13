@@ -1,0 +1,73 @@
+Tipo de Erro Não foi detectado o tipo de comprovante. Verifique o documento:
+"Não foi detectado o tipo de comprovante. Verifique o documento"
+Arquivos:
+- 1 - 1 - documento (1).pdf
+- 2 - 2 - documento (2).pdf
+- 3 - 3 - documento (3).pdf
+- 4 - 4 - documento (4).pdf
+- 5 - 5 - documento (5).pdf
+- 6 - 6 - documento (6).pdf
+- 7 - 7 - documento (7).pdf
+- 8 - 8 - documento (8).pdf
+- 9 - 9 - documento (9).pdf
+- 10 - 10 - documento (10).pdf
+- 11 - 12 - documento (12).pdf
+- 12 - 13 - documento (13).pdf
+- 13 - 16 - documento (16).pdf
+- 14 - 20 - documento (20).pdf
+- 15 - 22 - documento (22).pdf
+- 16 - 23 - documento (23).pdf
+- 17 - 24 - documento (24).pdf
+- 18 - 25 - documento (25).pdf
+- 19 - 26 - documento (26).pdf
+- 20 - 27 - documento (27).pdf
+- 21 - 29 - documento (29).pdf
+- 22 - 30 - documento (30).pdf
+- 23 - 31 - documento (31).pdf
+- 24 - 32 - documento (32).pdf
+- 25 - 33 - documento (33).pdf
+- 26 - 34 - documento (34).pdf
+- 27 - 35 - documento (35).pdf
+- 28 - 36 - documento (36).pdf
+- 29 - 37 - documento (37).pdf
+- 30 - 38 - documento (38).pdf
+- 31 - 39 - documento (39).pdf
+- 32 - 40 - documento (40).pdf
+- 33 - 41 - documento (41).pdf
+- 34 - 42 - documento (42).pdf
+- 35 - 43 - documento (43).pdf
+- 36 - 45 - documento (45).pdf
+- 37 - 46 - documento (46).pdf
+- 38 - 47 - documento (47).pdf
+- 39 - 48 - documento (48).pdf
+- 40 - 49 - documento (49).pdf
+- 41 - 51 - documento (51).pdf
+- 42 - 53 - documento.pdf
+
+===================================================================================
+Tipo de Erro translation-not-found[Internal Server Error]:
+"translation-not-found[Internal Server Error]"
+Arquivos:
+- 1 - 11 - documento (11).pdf
+
+===================================================================================
+Tipo de Erro Problemas ao ler o comprovante. Verifique o documento.:
+"Problemas ao ler o comprovante. Verifique o documento."
+Arquivos:
+- 1 - 14 - documento (14).pdf
+- 2 - 15 - documento (15).pdf
+- 3 - 17 - documento (17).pdf
+- 4 - 19 - documento (19).pdf
+- 5 - 21 - documento (21).pdf
+- 6 - 50 - documento (50).pdf
+
+===================================================================================
+Tipo de Erro Conta corrente e/ou agência bancária não corresponde ao cadastrado.:
+"Conta corrente e/ou agência bancária não corresponde ao cadastrado."
+Arquivos:
+- 1 - 44 - documento (44).pdf
+
+===================================================================================
+Total de arquivos com erro: 50
+
+===================================================================================
