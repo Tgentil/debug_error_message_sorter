@@ -45,12 +45,14 @@ Arquivos:
 - 42 - 53 - documento.pdf
 
 ===================================================================================
+
 Tipo de Erro translation-not-found[Internal Server Error]:
 "translation-not-found[Internal Server Error]"
 Arquivos:
 - 1 - 11 - documento (11).pdf
 
 ===================================================================================
+
 Tipo de Erro Problemas ao ler o comprovante. Verifique o documento.:
 "Problemas ao ler o comprovante. Verifique o documento."
 Arquivos:
@@ -62,12 +64,15 @@ Arquivos:
 - 6 - 50 - documento (50).pdf
 
 ===================================================================================
+
 Tipo de Erro Conta corrente e/ou agência bancária não corresponde ao cadastrado.:
 "Conta corrente e/ou agência bancária não corresponde ao cadastrado."
 Arquivos:
 - 1 - 44 - documento (44).pdf
 
 ===================================================================================
+
 Total de arquivos com erro: 50
 
 ===================================================================================
+

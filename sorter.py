@@ -41,6 +41,7 @@ with open(CAMINHO_SAIDA, 'w', encoding='utf-8') as arquivo_saida:
         arquivo_saida.write("\n")
         arquivo_saida.write(
             "===================================================================================\n")
+        arquivo_saida.write("\n")
 
     # Adicionar o total de arquivos com erro no final do arquivo de saída
     total_arquivos = sum(len(documentos)
@@ -49,3 +50,4 @@ with open(CAMINHO_SAIDA, 'w', encoding='utf-8') as arquivo_saida:
     arquivo_saida.write("\n")
     arquivo_saida.write(
         "===================================================================================\n")
+    arquivo_saida.write("\n")
